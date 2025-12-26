@@ -11,7 +11,7 @@ headers = {
 }
 
 # Streamlit app
-st.title("My Recipe Manager")
+st.title("Recipe Database Library")
 
 # Get recipes
 response = requests.get(
